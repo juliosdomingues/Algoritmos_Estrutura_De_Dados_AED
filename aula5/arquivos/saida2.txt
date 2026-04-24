@@ -1,0 +1,6 @@
+Agora sim estou lendo informações do arquivo de entrada
+ 58
+Mesmo considerando diferentes linhas
+ 37
+
+ 1

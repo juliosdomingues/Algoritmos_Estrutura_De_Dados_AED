@@ -1,0 +1,13 @@
+digite a quantidade de alunos
+ALUNOS CADASTRADOS:==============================
+julio saraçol
+ney ribeiro flores
+734
+96412490
+-------------------------
+maria josefina
+rua do sobe e desce
+14
+96400000
+-------------------------
+=================================================

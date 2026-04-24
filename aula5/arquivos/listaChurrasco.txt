@@ -1,0 +1,5 @@
+CHURRASCO
+1 carvao 2 2.5
+2 cerveja 12 4.5
+3 costela 2 23.00
+4 pao 20 5.00

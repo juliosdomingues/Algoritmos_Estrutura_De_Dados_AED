@@ -1,0 +1,1 @@
+olá estou escrevendo em bytes com fgetc

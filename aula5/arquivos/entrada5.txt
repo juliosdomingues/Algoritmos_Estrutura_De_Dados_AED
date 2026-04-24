@@ -1,0 +1,22 @@
+cerveja zillertal
+15
+13.00
+refrigerante coca_cola
+10
+5.00
+Pao de centeio
+5
+10.00
+arroz coradini
+20
+10.00
+feijao preto
+100
+5.00
+agua mineral com gas
+100
+4
+agua mineral sem gas
+200
+3
+
