@@ -1,5 +1,5 @@
 # Algoritmos_Estrutura_De_Dados_AED
-Porf. Julio Saraçol Domingues Júnior
+Prof. Julio Saraçol Domingues Júnior
 
 Repositório da disciplina de Algoritmos e Estrutura de Dados 
 
