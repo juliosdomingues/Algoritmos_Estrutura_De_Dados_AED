@@ -1,0 +1,42 @@
+
+--------
+NOME: cerveja zillertal
+PRECO: 13.000000
+Quantidade: 15
+ ------------
+
+--------
+NOME: refrigerante coca_cola
+PRECO: 5.000000
+Quantidade: 10
+ ------------
+
+--------
+NOME: Pao de centeio
+PRECO: 10.000000
+Quantidade: 5
+ ------------
+
+--------
+NOME: arroz coradini
+PRECO: 10.000000
+Quantidade: 20
+ ------------
+
+--------
+NOME: feijao preto
+PRECO: 5.000000
+Quantidade: 100
+ ------------
+
+--------
+NOME: agua mineral com gas
+PRECO: 4.000000
+Quantidade: 100
+ ------------
+
+--------
+NOME: agua mineral sem gas
+PRECO: 3.000000
+Quantidade: 200
+ ------------

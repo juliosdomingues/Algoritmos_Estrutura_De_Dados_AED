@@ -1,0 +1,4 @@
+Agora sim estou lendo informações do arquivo de entrada
+Mesmo considerando diferentes linhas
+
+mas ainda sem considerar linhas em branco no meio
